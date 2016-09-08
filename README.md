@@ -1,7 +1,4 @@
 # Kodi Deluge Browser and Streaming Plugin
-https://github.com/JohnDoee/tidalstream-xbmc-plugin
-
-(c)2016 by Anders Jensen <johndoee@tidalstream.org>
 
 ## Description
 
@@ -19,7 +16,7 @@ The streaming plugin can be found here: https://github.com/JohnDoee/deluge-strea
 If Deluge is not running locally (e.g. on a seedbox), you need to enable thin-client mode. A guide can be found here: http://dev.deluge-torrent.org/wiki/UserGuide/ThinClient
 
 * Install addon
-* Configure
+* Configure Deluge connection
 * Watch
 
 ## Motivation
