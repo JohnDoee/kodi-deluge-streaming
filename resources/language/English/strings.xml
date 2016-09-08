@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <!-- Plugin name -->
+  <string id="30000">Deluge</string>
+  
+  <string id="31000">Stream plugin not found</string>
+  <string id="31001">It seems like Stream plugin is not loaded in Deluge
+You need to load this plugin to stream directly from Deluge.
+If Deluge is running locally, you can only play complete files without Stream plugin.</string>
+  
+  <string id="32001">Deluge settings</string>
+  <string id="32011">Deluge IP</string>
+  <string id="32012">Deluge port</string>
+  <string id="32013">Deluge username</string>
+  <string id="32014">Deluge password</string>
+</strings>
