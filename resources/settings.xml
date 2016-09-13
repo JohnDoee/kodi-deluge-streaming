@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="32001">
+        <setting label="32011" type="ipaddress" id="ip" default=""/>
+        <setting label="32012" type="number" id="port" default=""/>
+        <setting label="32013" type="text" id="username" default=""/>
+        <setting label="32014" type="text" id="password" option="hidden" default=""/>
+    </category>
+</settings>
